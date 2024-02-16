@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "description": "Fitness tracker with heart rate monitoring",
+    "price": 129.99,
+    "stock": 80,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds for on-the-go audio",
+    "price": 79.99,
+    "stock": 60,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console for immersive gameplay",
+    "price": 499.99,
+    "stock": 25,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 10,
+    "name": "Portable Speaker",
+    "description": "Bluetooth speaker for outdoor adventures",
+    "price": 59.99,
+    "stock": 70,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 11,
+    "name": "External Hard Drive",
+    "description": "High-capacity external storage for backups",
+    "price": 129.99,
+    "stock": 35,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 12,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse for comfortable computing",
+    "price": 29.99,
+    "stock": 90,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "description": "Activity tracker with sleep monitoring",
+    "price": 49.99,
+    "stock": 55,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 14,
+    "name": "Bluetooth Keyboard",
+    "description": "Wireless keyboard for enhanced productivity",
+    "price": 39.99,
+    "stock": 65,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 15,
+    "name": "Printers",
+    "description": "All-in-one printer for home or office use",
+    "price": 199.99,
+    "stock": 45,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 16,
+    "name": "Wireless Router",
+    "description": "High-speed wireless router for seamless internet connectivity",
+    "price": 79.99,
+    "stock": 30,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 17,
+    "name": "Power Bank",
+    "description": "Portable charger for smartphones and tablets",
+    "price": 24.99,
+    "stock": 85,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 18,
+    "name": "Home Security Camera",
+    "description": "Smart home security camera for remote monitoring",
+    "price": 149.99,
+    "stock": 15,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 19,
+    "name": "Wireless Charger",
+    "description": "Qi-certified wireless charger for fast charging",
+    "price": 34.99,
+    "stock": 50,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  },
+  {
+    "id": 20,
+    "name": "VR Headset",
+    "description": "Virtual reality headset for immersive gaming experiences",
+    "price": 299.99,
+    "stock": 10,
+    "image": "https://www.freepik.com/free-photos-vectors/e-commerce"
+  }
+]
